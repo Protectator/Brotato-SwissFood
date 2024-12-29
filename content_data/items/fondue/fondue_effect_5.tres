@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_knockback"
-text_key = ""
+key = "knockback"
+text_key = "effect_knockback"
 value = 3
 custom_key = ""
 storage_method = 0

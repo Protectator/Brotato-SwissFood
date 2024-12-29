@@ -1,8 +1,8 @@
-[gd_resource type="Resource" load_steps=7 format=2]
+[gd_resource type="Resource" load_steps=10 format=2]
 
 [ext_resource path="res://mods-unpacked/Protectator-SwissFood/content_data/items/fondue/fondue_appearance.tres" type="Resource" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
-[ext_resource path="res://mods-unpacked/Protectator-SwissFood/content/items/fondue/swissfood_fondue_icon.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Protectator-SwissFood/content/items/swissfood_fondue_icon.png" type="Texture" id=3]
 [ext_resource path="res://mods-unpacked/Protectator-SwissFood/content_data/items/fondue/fondue_effect_1.tres" type="Resource" id=4]
 [ext_resource path="res://mods-unpacked/Protectator-SwissFood/content_data/items/fondue/fondue_effect_2.tres" type="Resource" id=5]
 [ext_resource path="res://mods-unpacked/Protectator-SwissFood/content_data/items/fondue/fondue_effect_3.tres" type="Resource" id=6]
