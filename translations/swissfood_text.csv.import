@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/Protectator-SwissFood/translations/swissfood_text.en.translation", "res://mods-unpacked/Protectator-SwissFood/translations/swissfood_text.fr.translation" ]
+
+source_file="res://mods-unpacked/Protectator-SwissFood/translations/swissfood_text.csv"
+dest_files=[ "res://mods-unpacked/Protectator-SwissFood/translations/swissfood_text.en.translation", "res://mods-unpacked/Protectator-SwissFood/translations/swissfood_text.fr.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

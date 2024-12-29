@@ -1,0 +1,23 @@
+{
+	"name": "SwissFood",
+	"namespace": "Protectator",
+	"version_number": "0.1.0",
+	"description": "Add the best of Swiss food to your Brotato experience with this mod.",
+	"website_url": "https://github.com/Protectator/Brotato-SwissFoodMod",
+	"dependencies": [
+		"Darkly77-ContentLoader"
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Protectator"],
+			"tags": [],
+			"description_rich": "Add the best of Swiss food to your Brotato experience with this mod.",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_schema": {}
+		}
+	}
+}
