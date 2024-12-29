@@ -13,9 +13,9 @@ arg_key = ""
 
 [resource]
 script = ExtResource( 2 )
-key = "stat_luck"
-text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
-value = 1
+key = "pickup_range"
+text_key = "effect_pickup_range"
+value = 20
 custom_key = ""
 storage_method = 0
 effect_sign = 0
